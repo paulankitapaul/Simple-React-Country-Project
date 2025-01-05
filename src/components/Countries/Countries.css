@@ -10,3 +10,12 @@
 .non-visited{
     background-color: green;
 }
+.flags-container {
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 10px;
+}
+.flags-container img{
+    width: 70px;
+    
+}
